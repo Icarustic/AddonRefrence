@@ -3,7 +3,9 @@ package net.mcreator.ageofshinobiaddon.item;
 import net.mcreator.ageofshinobiaddon.ElementsAgeofshinobiaddonMod;
 import net.mcreator.ageofshinobiaddon.creativetab.TabModTab;
 import net.mcreator.ageofshinobiaddon.entity.EntitySenkoSpirit;
+import net.mcreator.ageofshinobiaddon.item.RangedItem;
 import net.minecraft.client.renderer.block.model.ModelResourceLocation;
+import net.minecraft.creativetab.CreativeTabs;
 import net.minecraft.entity.EntityLivingBase;
 import net.minecraft.item.Item;
 import net.minecraft.item.ItemStack;
@@ -27,9 +29,10 @@ public class ItemTest extends ElementsAgeofshinobiaddonMod.ModElement {
 
     @Override
     public void initElements() {
-        elements.items.add(() -> new RangedItem(SENKO));
+        this.elements.items.add(() -> {
+            return new RangedItem(SENKO);
+        });
     }
-
     @Override
     @SideOnly(Side.CLIENT)
     public void registerModels(ModelRegistryEvent event) {
@@ -47,7 +50,7 @@ public class ItemTest extends ElementsAgeofshinobiaddonMod.ModElement {
             super(ItemJutsu.JutsuEnum.Type.OTHER, list);
             this.setRegistryName("test");
             this.setUnlocalizedName("test");
-            this.setCreativeTab(TabModTab.tab);
+            this.setCreativeTab(CreativeTabs.TOOLS);
         }
 
         @Override
