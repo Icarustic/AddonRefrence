@@ -1,0 +1,6 @@
+{
+  "parent": "ahznbcursemarkaddon:custom/steel",
+  "textures": {
+    "0": "ahznbcursemarkaddon:blocks/steel"
+  }
+}

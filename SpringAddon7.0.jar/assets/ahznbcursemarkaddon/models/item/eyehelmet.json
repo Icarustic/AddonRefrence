@@ -1,0 +1,6 @@
+{
+  "parent": "ahznbcursemarkaddon:custom/mangekyo_spring",
+  "textures": {
+    "1": "ahznbcursemarkaddon:dojutsu/boruto/base/item"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "display": {
+    "icon": {
+      "item": "ahznbcursemarkaddon:ketsuryuganoffhelmet"
+    },
+    "title": {
+      "translate": "advancements.ketsuryuganopened.title"
+    },
+    "description": {
+      "translate": "advancements.ketsuryuganopened.descr"
+    },
+    "frame": "goal",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "byakuganopened": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "rewards": {
+    "experience": 0
+  },
+  "parent": "narutomod:ninjaachievement"
+}

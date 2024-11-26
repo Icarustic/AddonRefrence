@@ -1,0 +1,6 @@
+{
+  "parent": "ahznbcursemarkaddon:custom/kidomarubow",
+  "textures": {
+    "0": "ahznbcursemarkaddon:blocks/bow"
+  }
+}

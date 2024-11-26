@@ -1,0 +1,6 @@
+{
+  "parent": "ahznbcursemarkaddon:custom/kidomaru",
+  "textures": {
+    "0": "ahznbcursemarkaddon:blocks/kidomaru"
+  }
+}

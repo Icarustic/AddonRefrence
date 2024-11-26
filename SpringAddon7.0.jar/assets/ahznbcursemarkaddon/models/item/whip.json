@@ -1,0 +1,6 @@
+{
+  "parent": "ahznbcursemarkaddon:custom/redrinnegansword",
+  "textures": {
+    "1": "ahznbcursemarkaddon:blocks/chakra_axe_texture"
+  }
+}

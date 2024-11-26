@@ -1,0 +1,6 @@
+{
+  "parent": "ahznbcursemarkaddon:custom/kiba",
+  "textures": {
+    "0": "ahznbcursemarkaddon:blocks/kiba"
+  }
+}

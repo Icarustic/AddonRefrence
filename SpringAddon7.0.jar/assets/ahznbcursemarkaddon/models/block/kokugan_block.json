@@ -1,0 +1,7 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "ahznbcursemarkaddon:blocks/concrete_black_red",
+    "particle": "ahznbcursemarkaddon:blocks/concrete_black_red"
+  }
+}

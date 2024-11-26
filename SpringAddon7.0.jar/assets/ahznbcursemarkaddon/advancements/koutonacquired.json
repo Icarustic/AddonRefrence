@@ -1,0 +1,26 @@
+{
+  "display": {
+    "icon": {
+      "item": "ahznbcursemarkaddon:kouton"
+    },
+    "title": {
+      "translate": "advancements.koutonacquired.title"
+    },
+    "description": {
+      "translate": "advancements.koutonacquired.descr"
+    },
+    "frame": "goal",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "koutonacquired": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "rewards": {
+    "experience": 0
+  },
+  "parent": "narutomod:ninjaachievement"
+}

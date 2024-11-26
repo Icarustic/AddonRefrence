@@ -1,0 +1,6 @@
+{
+  "parent": "ahznbcursemarkaddon:custom/koral",
+  "textures": {
+    "1": "ahznbcursemarkaddon:releases/infernorelease"
+  }
+}

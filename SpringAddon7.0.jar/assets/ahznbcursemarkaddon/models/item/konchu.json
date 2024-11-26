@@ -1,0 +1,6 @@
+{
+  "parent": "ahznbcursemarkaddon:custom/insect",
+  "textures": {
+    "1": "ahznbcursemarkaddon:releases/insectrelease"
+  }
+}

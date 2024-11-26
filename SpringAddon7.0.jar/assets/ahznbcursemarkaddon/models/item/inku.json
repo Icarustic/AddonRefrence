@@ -1,0 +1,6 @@
+{
+  "parent": "ahznbcursemarkaddon:custom/inku",
+  "textures": {
+    "1": "ahznbcursemarkaddon:releases/inkrelease"
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "parent": "ahznbcursemarkaddon:custom/vinesword",
+  "textures": {
+    "0": "ahznbcursemarkaddon:blocks/vinesword"
+  }
+}

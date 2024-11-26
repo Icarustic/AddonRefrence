@@ -1,0 +1,6 @@
+{
+  "parent": "ahznbcursemarkaddon:custom/bubble",
+  "textures": {
+    "1": "ahznbcursemarkaddon:releases/bubblerelease"
+  }
+}

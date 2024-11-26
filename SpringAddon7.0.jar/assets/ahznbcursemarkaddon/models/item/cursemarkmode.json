@@ -1,0 +1,6 @@
+{
+  "parent": "ahznbcursemarkaddon:custom/cursemark",
+  "textures": {
+    "0": "ahznbcursemarkaddon:blocks/cursemark"
+  }
+}

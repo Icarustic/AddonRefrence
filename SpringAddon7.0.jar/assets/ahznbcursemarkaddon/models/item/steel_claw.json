@@ -1,0 +1,6 @@
+{
+  "parent": "ahznbcursemarkaddon:custom/steelclaw",
+  "textures": {
+    "0": "ahznbcursemarkaddon:blocks/stgeel"
+  }
+}

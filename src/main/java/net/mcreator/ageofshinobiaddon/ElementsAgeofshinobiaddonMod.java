@@ -48,7 +48,7 @@ import net.minecraftforge.fml.common.network.simpleimpl.IMessage;
 import net.minecraftforge.fml.common.network.simpleimpl.IMessageHandler;
 import net.minecraftforge.fml.common.registry.EntityEntry;
 import net.minecraftforge.fml.relauncher.Side;
-import net.narutomod.gui.GuiMedicalScrollGUI;
+
 
 public class ElementsAgeofshinobiaddonMod implements IFuelHandler, IWorldGenerator {
     public final List<ModElement> elements = new ArrayList();
@@ -234,11 +234,13 @@ public class ElementsAgeofshinobiaddonMod implements IFuelHandler, IWorldGenerat
         }
 
         public Object getServerGuiElement(int id, EntityPlayer player, World world, int x, int y, int z) {
-            return id == GuiMedicalScrollGUI.GUIID ? new GuiMedicalScrollGUI.GuiContainerMod(world, x, y, z, player) : null;
+            //return id == GuiMedicalScrollGUI.GUIID ? new GuiMedicalScrollGUI.GuiContainerMod(world, x, y, z, player) : null;
+            return null;
         }
 
         public Object getClientGuiElement(int id, EntityPlayer player, World world, int x, int y, int z) {
-            return id == GuiMedicalScrollGUI.GUIID ? new GuiMedicalScrollGUI.GuiWindow(world, x, y, z, player) : null;
+            //return id == GuiMedicalScrollGUI.GUIID ? new GuiMedicalScrollGUI.GuiWindow(world, x, y, z, player) : null;
+            return null;
         }
     }
 

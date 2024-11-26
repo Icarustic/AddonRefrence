@@ -1,0 +1,66 @@
+{
+  "ketsuacativate": {
+    "category": "master",
+    "sounds": [
+      {
+        "name": "ahznbcursemarkaddon:ketsuact",
+        "stream": false
+      }
+    ]
+  },
+  "kestudeactivate": {
+    "category": "master",
+    "sounds": [
+      {
+        "name": "ahznbcursemarkaddon:ketsudea",
+        "stream": false
+      }
+    ]
+  },
+  "blooddragon": {
+    "category": "master",
+    "sounds": [
+      {
+        "name": "ahznbcursemarkaddon:blooddragon",
+        "stream": false
+      }
+    ]
+  },
+  "edotensei": {
+    "category": "master",
+    "sounds": [
+      {
+        "name": "ahznbcursemarkaddon:edotensei",
+        "stream": false
+      }
+    ]
+  },
+  "activatemangekyo": {
+    "category": "master",
+    "sounds": [
+      {
+        "name": "ahznbcursemarkaddon:activatemangekyo",
+        "stream": false
+      }
+    ]
+  },
+  "sukonohikona": {
+    "category": "master",
+    "subtitle": "subtitles.sukonohikona",
+    "sounds": [
+      {
+        "name": "ahznbcursemarkaddon:sukonohikona",
+        "stream": false
+      }
+    ]
+  },
+  "goku": {
+    "category": "master",
+    "sounds": [
+      {
+        "name": "ahznbcursemarkaddon:goku",
+        "stream": false
+      }
+    ]
+  }
+}

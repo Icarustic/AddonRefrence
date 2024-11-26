@@ -1,0 +1,22 @@
+[
+  {
+    "modid": "ahznbcursemarkaddon",
+    "name": "AhznbCursemarkAddon",
+    "description": "",
+    "version": "5.0",
+    "credits": "Created by Spring, with the help of Totonho, Radon, Saber, Noow, Yashi and Ra'ba",
+    "logoFile": "",
+    "mcversion": "1.12.2",
+    "url": "https://www.curseforge.com/minecraft/mc-mods/cursemarkaddon",
+    "updateUrl": "",
+    "authorList": [
+      "Spring"
+    ],
+    "dependencies": [],
+    "dependants": [],
+    "requiredMods": [
+      "narutomod"
+    ],
+    "useDependencyInformation": "true"
+  }
+]

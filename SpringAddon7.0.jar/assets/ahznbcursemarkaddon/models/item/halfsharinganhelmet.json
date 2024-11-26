@@ -1,0 +1,6 @@
+{
+  "parent": "ahznbcursemarkaddon:custom/halfsharingan",
+  "textures": {
+    "0": "ahznbcursemarkaddon:blocks/item"
+  }
+}

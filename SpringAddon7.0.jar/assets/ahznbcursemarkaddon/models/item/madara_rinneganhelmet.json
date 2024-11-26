@@ -1,0 +1,6 @@
+{
+  "parent": "ahznbcursemarkaddon:custom/madara_rinnegan",
+  "textures": {
+    "1": "ahznbcursemarkaddon:items/rinnegan"
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "parent": "ahznbcursemarkaddon:custom/medical",
+  "textures": {
+    "0": "ahznbcursemarkaddon:blocks/medical"
+  }
+}

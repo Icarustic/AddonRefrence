@@ -1,0 +1,6 @@
+{
+  "parent": "ahznbcursemarkaddon:custom/dudu_rinnegan",
+  "textures": {
+    "1": "ahznbcursemarkaddon:dojutsu/rinnegan/dudu/item"
+  }
+}
